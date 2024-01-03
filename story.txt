@@ -1,0 +1,46 @@
+"Začátek příběhu"
+
+
+      ^
+     / \
+    /   \
+   /     \
+  /       \
+ /_________\
+
+Jednoho dne se Tomáš vydal na vrchol velké hory.
+
+"Pokračování příběhu"
+      _____
+      |____]
+      |
+      |
+      |
+     /|\
+    / | \
+   /  |  \
+  /   |   \
+ /    |    \
+/_____|_____\
+
+Když dosáhl vrcholu, zjistil, že všude je mlha a nepamatuje si cestu ven.
+
+"Pokračování příběhu [1]"
+
+    _ -^~~-
+  _ -| |   | |~-_
+      |   |   |
+      |  | |  |
+      |  | |  |
+     |  | | |  |
+     |__|_|__|
+
+Tomáš na vrcholu zůstal ztracen na vrcholu. Začal hledat cestu ven, ale zdálo se to beznadějné.
+
+"Pokračování příběhu [2]"
+
+  O\
+ /|
+ / \
+
+Po několika hodinách, když mlha ustoupila Tomáš zjistil, že je dole na upatí hory, ale už si nevzpomína jestli na vrcholu skutečně byl, a i přes mlhu se mu podařilo sestoupit z hory nebo jestli se na vrchol nikdy nedostal.
